@@ -4,7 +4,7 @@ module.exports = {
   TOKEN: "",
   language: "en",
   ownerID: ["715210330820575293", ""], 
-  mongodbUri : "mongodb+srv://yimkumerpongen:<db_password>@primemusic-lavalink.eash6.mongodb.net/?retryWrites=true&w=majority&appName=PrimeMusic-Lavalink",
+  mongodbUri : "mongodb+srv://yimkumerpongen:MU1UwsUU2keGqj4D@primemusic-lavalink.eash6.mongodb.net/?retryWrites=true&w=majority&appName=PrimeMusic-Lavalink",
   spotifyClientId : "",
   spotifyClientSecret : "",
   setupFilePath: './commands/setup.json',
