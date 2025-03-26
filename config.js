@@ -16,10 +16,10 @@ module.exports = {
   nodes: [
     {
       name: "Khalid",
-      host: "v3.lavalink.rocks",
-      password: "horizxon.tech",
-      port: 443,
-      secure: true
+      host: "lava-v4.ajieblogs.eu.org",
+      password: "https://dsc.gg/ajidevserver",
+      port: 80,
+      secure: false
     }
   ]
 }
