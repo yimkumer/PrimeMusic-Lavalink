@@ -1,5 +1,5 @@
 module.exports = {
-    footer: "Developed by DUKE | Aonther One v6.9",
+    footer: " Developed byDUKE | Aonther One v6.9",
     ping: {
       description: "Check the bot latency",
       response: "Pinging...",
